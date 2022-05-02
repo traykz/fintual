@@ -62,9 +62,9 @@ class portfolio
                                     
             }
 
-             foreach($detalle as $data){
+              foreach($detalle as $data){
                   
-                     echo  'Empresa >'. $data['Empresa'].' <br>Fecha de Compra : '.$data['FechaCompra'].'<br>Utilidades > $'.$data['Ganancias'].' USD<br>';
+                   echo    'Empresa >'. $data['Empresa'].' <br>Fecha de Compra : '.$data['FechaCompra'].'<br>Utilidades > $'.$data['Ganancias'].' USD<br>';
                  
              };
 
@@ -116,8 +116,7 @@ echo '</table>';
  */
 $profit = $portfolio -> getProfit('2020-01-01', '2020-05-05', false);
 
-$profit;
-
+echo $profit;
 
 echo '<br>';
 
