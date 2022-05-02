@@ -1,0 +1,47 @@
+[
+    {
+        "id": "1",
+        "dateCompra": "2020-01-01",
+        "empresa": "Tesla",
+        "gananciasEmpresa": "20000" ,
+        "accionesCirculacion": "1000",
+        "valor": "20",
+        "accionesCompradas": "30"
+    },
+    {
+        "id": "2",
+        "dateCompra": "2020-02-01",
+        "empresa": "Microsoft",
+        "gananciasEmpresa": "5000" ,
+        "accionesCirculacion": "500",
+        "valor": "30",
+        "accionesCompradas": "10"
+    },
+    {
+        "id": "3",
+        "dateCompra": "2020-03-01",
+        "empresa": "Apple",
+        "gananciasEmpresa": "4000" ,
+        "accionesCirculacion": "3000",
+        "valor": "100",
+        "accionesCompradas": "10"
+    },
+    {
+        "id": "4",
+        "dateCompra": "2020-04-01",
+        "empresa": "Oracle",
+        "gananciasEmpresa": "500" ,
+        "accionesCirculacion": "20000",
+        "valor": "200",
+        "accionesCompradas": "30"
+    },
+    {
+        "id": "5",
+        "dateCompra": "2020-05-01",
+        "empresa": "Facebook",
+        "gananciasEmpresa": "20000" ,
+        "accionesCirculacion": "2000",
+        "valor": "10",
+        "accionesCompradas": "18"
+    }
+]
